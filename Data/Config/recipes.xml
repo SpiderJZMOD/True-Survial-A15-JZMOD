@@ -2038,7 +2038,7 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 	<ingredient name="stick" count="2"/>
 </recipe>
 
-<recipe name="spotlight" count="1" craft_area="workworkbench" craft_tool="wrench" craft_time="10" craft_exp_gain="10">
+<recipe name="spotlight" count="1" craft_area="workMetalWorkBench" craft_tool="wrench" craft_time="10" craft_exp_gain="10">
 	<ingredient name="headlight" count="1"/>
     <ingredient name="cntTrash_can01" count="1" />
     <ingredient name="carBattery" count="1"/>
