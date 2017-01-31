@@ -275,6 +275,7 @@
 		<window_group name="workstation_workBurnBarrel" controller="XUiC_WorkstationWindowGroup">
 			<window name="windowCraftingList" />
 			<window name="craftingInfoPanel" />
+			<window name="windowCraftingQueue" />
 			<window name="windowFuel" />
 			<window name="windowOutput" />
 			<window name="windowNonPagingHeader" />
