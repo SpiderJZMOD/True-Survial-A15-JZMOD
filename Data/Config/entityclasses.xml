@@ -762,9 +762,9 @@
         <drop event="Harvest" name="Hoof" tool_category="Butcher" count="2" prob=".4" />
         <drop event="Harvest" name="Hoof" tool_category="Butcher" count="2" prob=".4" />
 		<drop event="Harvest" name="BrainMatter" tool_category="Butcher" count="9" />
-        <drop event="Harvest" name="VenisonTenderloin" tool_category="Hunter" count="1" />
-        <drop event="Harvest" name="VenisonTenderloin" tool_category="Hunter" count="1" prob=".2" />
-        <drop event="Harvest" name="VenisonTenderloin" tool_category="Hunter" count="1" prob=".2" />
+        <drop event="Harvest" name="VenisonTenderloin" tool_category="Butcher" count="1" />
+        <drop event="Harvest" name="VenisonTenderloin" tool_category="Butcher" count="1" prob=".2" />
+        <drop event="Harvest" name="VenisonTenderloin" tool_category="Butcher" count="1" prob=".2" />
         <!--JZMOD Destroy-->
         <drop event="Destroy" name="femur"  count="2" />
         <drop event="Destroy" name="femur" tool_category="Hunter" count="2" />
